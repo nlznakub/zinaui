@@ -1,0 +1,19 @@
+{
+  "name": "zinaui",
+  "version": "1.0.0",
+  "description": "zinaui by nlznakub",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlznakub/zinaui.git"
+  },
+  "author": "Anis Chentanomwong <zinachen1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlznakub/zinaui/issues"
+  },
+  "homepage": "https://github.com/nlznakub/zinaui#readme"
+}
