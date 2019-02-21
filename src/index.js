@@ -1,4 +1,4 @@
-import Avatar from "./components/Avartar";
+import Avatar from "./components/Avatar";
 
 export {
     Avatar

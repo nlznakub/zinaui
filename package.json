@@ -1,8 +1,9 @@
 {
   "name": "zinaui",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "zinaui by nlznakub",
   "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
