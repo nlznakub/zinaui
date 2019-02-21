@@ -1,6 +1,6 @@
 {
   "name": "zinaui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "zinaui by nlznakub",
   "main": "src/index.js",
   "scripts": {
@@ -12,6 +12,9 @@
   },
   "author": "Anis Chentanomwong <zinachen1@gmail.com>",
   "license": "ISC",
+  "files": [
+    "src"
+  ],
   "bugs": {
     "url": "https://github.com/nlznakub/zinaui/issues"
   },
